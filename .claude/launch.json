@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "3000", "/Users/namandeepsinghnayyar/Website/namandeep.github.io"],
+      "port": 3000
+    }
+  ]
+}
