@@ -844,6 +844,12 @@ strong { color: var(--text); font-weight: 600; }
 .project-card:hover .project-thumb img {
   transform: scale(1.03);
 }
+.project-card:hover .thumb-zoom img {
+  transform: scale(1.43);
+}
+.thumb-zoom img {
+  transform: scale(1.4);
+}
 
 .project-card-body {
   padding: 1.5rem 1.75rem 1.75rem;
